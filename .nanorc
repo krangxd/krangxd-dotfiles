@@ -1,0 +1,21 @@
+# Include highlighting
+include "/usr/share/nano/*.nanorc"
+
+# Default comfy settings
+set linenumbers
+set tabsize 2
+set autoindent
+set tabstospaces
+
+# Scrollbar
+set indicator
+
+# Color
+set titlecolor black,green
+set statuscolor brightcyan,black
+set errorcolor white,red
+set selectedcolor black,cyan
+set numbercolor black,green
+set keycolor black,green
+set functioncolor green,black
+set scrollercolor green,black
